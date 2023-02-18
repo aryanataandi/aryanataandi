@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @aryanataandi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-aryanataandi/aryanataandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Aryanata Andipradana
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Front-End Development Stack
+- 💻 I’m working mostly using PHP
+- 📫 How to reach me at Twitter, Instagram and Telegram @aryanata_andi
